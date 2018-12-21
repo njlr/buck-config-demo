@@ -1,0 +1,13 @@
+cxx_library(
+  name = 'foo',
+  header_namespace = '',
+  exported_headers = [
+    'foo.hpp',
+  ],
+  srcs = [
+    'foo.cpp',
+  ],
+  visibility = [
+    'PUBLIC',
+  ],
+)
