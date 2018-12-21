@@ -46,3 +46,5 @@ Building: finished in 1.1 sec (100%) 7/7 jobs, 3 updated
 foo says: CUSTOMFOO
 app says: RELEASEFOOUSINGCONFIG
 ```
+
+More information can be found [in the docs](https://buckbuild.com/command/common_parameters.html). 
